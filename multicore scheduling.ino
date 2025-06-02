@@ -1,5 +1,5 @@
 /**
- * @file Lab5Part2.ino
+ * @file multicore_scheduling.ino
  * @brief ESP32 application using FreeRTOS with multiple tasks:
  * - Light detection
  * - LCD display updates
